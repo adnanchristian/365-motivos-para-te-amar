@@ -17,5 +17,5 @@ Este é um projeto que exibe 365 motivos para amar de forma sequenciais ao clica
 ## 🚀 Como Usar:
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/adnanchristia/365-motivos-para-te-amar.git
 
