@@ -16,7 +16,7 @@ script.js: Lógica para exibir as mensagens e criar as animações.
 Clone o repositório:
 bash
 Copiar código
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/adnanchristian/365-motivos-para-te-amar.git
 Abra o index.html em seu navegador.
 Clique no botão para revelar as mensagens e assistir os corações flutuarem!
 
